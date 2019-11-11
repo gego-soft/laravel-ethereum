@@ -1,5 +1,5 @@
 {
-    "name": "jcsofts/laravel-ethereum",
+    "name": "gegosoft/laravel-ethereum",
     "description": "the ethereum json rpc api",
     "type": "library",
     "license": "MIT",
@@ -9,8 +9,8 @@
     ],
     "authors": [
         {
-            "name": "lee",
-            "email": "jcsoft@aliyun.com"
+            "name": "karthick",
+            "email": "karthick@gegosoft.com"
         }
     ],
     "require": {
