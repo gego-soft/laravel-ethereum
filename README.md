@@ -2,12 +2,7 @@
     Ethereum Package for Laravel
 </h2>
 
-<p align="center">
-    <a href="https://packagist.org/packages/gegosoft/laravel-ethereum"><img src="https://poser.pugx.org/jcsofts/laravel-ethereum/v/stable?format=flat-square" alt="Latest Stable Version"></a>
-    <a href="https://packagist.org/packages/gegosoft/laravel-ethereum"><img src="https://poser.pugx.org/jcsofts/laravel-ethereum/v/unstable?format=flat-square" alt="Latest Unstable Version"></a>    
-    <a href="https://packagist.org/packages/gegosoft/laravel-ethereum"><img src="https://poser.pugx.org/jcsofts/laravel-ethereum/license?format=flat-square" alt="License"></a>
-    <a href="https://packagist.org/packages/gegosoft/laravel-ethereum"><img src="https://poser.pugx.org/jcsofts/laravel-ethereum/downloads" alt="Total Downloads"></a>
-</p>
+
 
 ## Introduction
 
