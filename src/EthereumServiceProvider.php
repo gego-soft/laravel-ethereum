@@ -1,9 +1,9 @@
 <?php
-namespace Jcsofts\LaravelEthereum;
+namespace Gegosoft\LaravelEthereum;
 
 use Illuminate\Config\Repository;
 use Illuminate\Support\ServiceProvider;
-use Jcsofts\LaravelEthereum\Lib\Ethereum;
+use Gegosoft\LaravelEthereum\Lib\Ethereum;
 
 /**
  * Created by PhpStorm.

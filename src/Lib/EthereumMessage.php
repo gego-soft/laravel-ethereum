@@ -6,7 +6,7 @@
  * Time: 3:20 PM
  */
 
-namespace Jcsofts\LaravelEthereum\Lib;
+namespace Gegosoft\LaravelEthereum\Lib;
 
 
 class EthereumMessage extends EthereumTransaction

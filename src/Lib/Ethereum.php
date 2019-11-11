@@ -1,5 +1,5 @@
 <?php
-namespace Jcsofts\LaravelEthereum\Lib;
+namespace Gegosoft\LaravelEthereum\Lib;
 /**
  * Created by PhpStorm.
  * User: lee

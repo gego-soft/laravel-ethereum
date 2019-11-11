@@ -6,7 +6,7 @@
  * Time: 3:21 PM
  */
 
-namespace Jcsofts\LaravelEthereum\Lib;
+namespace Gegosoft\LaravelEthereum\Lib;
 
 
 class WhisperPost
